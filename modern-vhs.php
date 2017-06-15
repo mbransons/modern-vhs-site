@@ -177,7 +177,7 @@
   </head>
     
   <body data-spy="scroll" data-target="#navbarSpy" data-offset="140">
-      <!-- a comment to deal with -->
+
       <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top" id="navbarSpy">
           
           <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
